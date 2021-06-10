@@ -92,3 +92,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+| S. No | Feature | Status | Testing |
+|---- |---- |---- |---- |
+| 1 | Registration with Email |  |  |
+| 2 | Login with Email |  |  |
+| 3 | Verifying user's email |  |  |
+| 4 | Reset password |  |  |
+| a | Request for password reset OTP (email) |  |  |
+| b | Use the OTP and new password to reset password |  |  |
+| c | Request resend for password reset OTP |  |  |
+| 5 | Update password |  |  |
+| 6 | Log out |  |  |
